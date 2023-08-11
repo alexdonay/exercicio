@@ -8,3 +8,4 @@ https://gorails.com/setup/windows/11
 
 A IDE utilizada foi o VSCODE
 
+- Configuramos o Github e foi feito o Primeiro commit.
